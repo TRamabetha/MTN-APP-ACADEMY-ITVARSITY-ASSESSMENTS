@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/archivo_black</item>
+        <item>@font/creepster</item>
+        <item>@font/della_respira</item>
+        <item>@font/emilys_candy</item>
+        <item>@font/fugaz_one</item>
+        <item>@font/ramabhadra</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/roboto_slab_thin</item>
+    </array>
+</resources>

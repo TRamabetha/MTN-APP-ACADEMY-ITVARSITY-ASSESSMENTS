@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/nav_one"
+        android:title="look one"
+        android:icon="@drawable/ic_baseline_looks_one_24"/>
+    <item
+        android:id="@+id/nav_two"
+        android:title="look two"
+        android:icon="@drawable/ic_baseline_looks_two_24"/>
+    <item
+        android:id="@+id/nav_three"
+        android:title="look three"
+        android:icon="@drawable/ic_baseline_looks_3_24"/>
+</menu>
